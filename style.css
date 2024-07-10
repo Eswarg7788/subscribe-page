@@ -1,0 +1,56 @@
+.letter{
+    border: 1px solid black;
+    width: 700px;
+    height: 400px;
+    margin-left: 350px;
+    margin-top: 20px;
+}
+h2{
+    position: relative;
+    bottom: 10px;
+    left: 10px;
+}
+.outline{
+    border: 1px solid rgb(184, 183, 179);
+    width:675px;
+    height: 325px;
+    margin-left: 10px;
+}
+.news{
+    background-color:rgb(187, 184, 178);
+    position: relative;
+    bottom: 20px;
+    height: 125px;
+}
+h3{
+    position: relative;
+    top:10px
+}
+p{
+    text-align:start;
+    position: relative;
+    left: 10px;
+}
+.ww{
+    width:650px;
+    position: relative;
+    left: 10px;
+    height: 30px;
+}
+.we{
+    position: relative;
+    left: 10px;
+}
+.ss{
+    background-color: rgb(187, 184, 178);
+    height: 55px;
+}
+button{
+    background-color: green;
+    color: aliceblue;
+    width: 650px;
+    height: 30px;
+    position: relative;
+    top: 15px;
+    left: 10px;
+}
